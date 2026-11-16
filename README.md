@@ -1,10 +1,56 @@
-# Rui Zhou · 周瑞
+<div align="center">
 
-I build robotics applications on **ROS 2, embedded Linux, Jetson, and ESP32**. I focus on making demos reproducible: documenting the setup, checking results, and making hardware and software failures easier to isolate.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=F7B93E&center=true&vCenter=true&random=false&width=760&v=3&lines=Hello+World!;I+am+Rui+Zhou;ROS+2+%C2%B7+Embedded+Linux+%C2%B7+Robotics;Reproducible+demos+%C2%B7+Hardware-software+integration" alt="Typing SVG" />
+</a>
 
-机器人应用与嵌入式开发：板端部署、软硬件联调、案例复现与排障。
+<h3>👋 你好，我是周瑞</h3>
 
-## Selected projects
+<p>
+  <em>专注机器人应用与嵌入式开发：ROS 2、板端部署、软硬件联调、案例复现与排障。</em>
+</p>
+
+</div>
+
+---
+
+## 🧰 技术栈
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,linux,ubuntu,docker,git,github,cmake,raspberrypi,arduino,vscode&theme=light" alt="skills" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub 数据
+
+<div align="center">
+
+![streak](https://streak-stats.demolab.com/?user=newer888&theme=transparent&hide_border=true)
+
+<a href="https://github.com/newer888?tab=followers">
+  <img src="https://img.shields.io/github/followers/newer888?label=Followers&style=for-the-badge&labelColor=343A46&color=23272F" alt="Followers" />
+</a>
+<a href="https://github.com/newer888?tab=repositories">
+  <img src="https://img.shields.io/github/stars/newer888?label=Stars&style=for-the-badge&labelColor=343A46&color=F7B93E" alt="Stars" />
+</a>
+
+</div>
+
+---
+
+## 🐍 贡献贪吃蛇
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/newer888/newer888/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/newer888/newer888/output/snake.svg" alt="contribution snake" />
+</picture>
+
+---
+
+## 🚀 代表项目
 
 ### 1. reBot Arm B601-RS — simulation and MoveIt 2 integration
 
